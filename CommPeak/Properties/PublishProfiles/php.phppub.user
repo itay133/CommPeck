@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <File Include="Call.php">
+      <publishTime>05/18/2019 15:33:24</publishTime>
+    </File>
+    <File Include="countryInfo.csv">
+      <publishTime>05/18/2019 14:53:24</publishTime>
+    </File>
+    <File Include="index.php">
+      <publishTime>05/18/2019 10:18:32</publishTime>
+    </File>
+    <File Include="readFile.php">
+      <publishTime>05/18/2019 12:50:54</publishTime>
+    </File>
+    <File Include="upload.php">
+      <publishTime>05/18/2019 15:42:42</publishTime>
+    </File>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="uploads" />
+  </ItemGroup>
+</Project>

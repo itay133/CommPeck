@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "CommPeak", "..\..\..\..\..\Users\itay shechter\Source\Repos\CommPeak\CommPeak\CommPeak.phpproj", "{24962F96-6F74-4A68-A3A0-56A4146B7541}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24962F96-6F74-4A68-A3A0-56A4146B7541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24962F96-6F74-4A68-A3A0-56A4146B7541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FC72CC5-AA9B-4BF5-95D8-54C237DB8849}
+	EndGlobalSection
+EndGlobal
